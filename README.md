@@ -1,26 +1,13 @@
-HW1
-===
+#HW1
 
-ME 766 home work assignment - Matrix Multiplication
 
-===
+###ME 766 home work assignment - Matrix Multiplication
 
-Serial code:
-For compiling do - `make serial`
+1. Compilation
+..* For serial code do - `make serial`
+..* For openMP code do - `make openmp`
+* For MPI code do - `make mpi`
+* For all verions (serial, openmp, mpi) do - `make all`
+2. For cleaning dir do - `make clean`
 
-OpenMP code:
-For compiling do - `make openmp`
-
-MPI code:
-For compiling do - `make mpi`
-
-===
-
-For compiling all versions (serial, openmp, mpi) do - `make all`
-
-===
-
-For cleaning dir do - `make clean`
-
-===
 For more information see make file.
