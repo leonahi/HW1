@@ -2,6 +2,7 @@
 
 
 ###ME 766 home work assignment - Matrix Multiplication
+This folder contains serial, openMP and MPI versions of matrix multiplication codes.
 
 | For Compilation |      Do       |
 |-----------------|---------------|
