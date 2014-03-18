@@ -10,6 +10,8 @@
 | MPI code        | `make mpi`    |
 | All version     | `make all`    |
 
-*For cleaning dir do - `make clean`
+* For cleaning dir do - `make clean`
+
+----
 
 For more information see make file.
