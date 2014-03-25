@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#define SIZE 100
+#define SIZE 2000
 
 int matrix_multiply(double A[], double B[], int ROWA, int COLA, int ROWB, int COLB, double C[])
 {
@@ -29,12 +29,12 @@ int matrix_multiply(double A[], double B[], int ROWA, int COLA, int ROWB, int CO
 
 int main(int argc, char* argv[])
 {
-    if (argc != 2)
+    /*if (argc != 2)
     {
         cout << "Require matrix size as command line argument" << endl;
         cout << "Usage: ./a.out [size_of_matrix]" << endl;
         exit(1);
-    }
+    }*/
     
     clock_t start, end;
     int err_num;
